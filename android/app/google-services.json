@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "976195829519",
+    "project_id": "logingenerico-38dc5",
+    "storage_bucket": "logingenerico-38dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976195829519:android:f9dee2790f52b4176ac87a",
+        "android_client_info": {
+          "package_name": "com.logingenerico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976195829519-j8vgfhlmn9p4c8jf45jp6f15dnrk2vnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logingenerico",
+            "certificate_hash": "de513b77b2b1180217c043eeeeddf08b6853c5c7"
+          }
+        },
+        {
+          "client_id": "976195829519-mmcr8ved24jijqnve8td8ed7agjbofkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4_aWxndaY8OGgYWwlPOYegRF0fZWMGcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976195829519-mmcr8ved24jijqnve8td8ed7agjbofkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
