@@ -5,7 +5,6 @@ import React, { useContext, useState } from 'react';
 import { View, StyleSheet, Image, Text, TextInput, TouchableOpacity, Alert, ActivityIndicator, SafeAreaView } from 'react-native';
 import { AuthContext } from '../navigation/AuthProvider';
 
-import Loading from '../components/Loading';
 
 /* Função que faz uma linha ------ para separar os itens */
 const Separator = () => (

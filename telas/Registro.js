@@ -115,13 +115,13 @@ const Registro = () => {
 const estilo = StyleSheet.create({
     container:{
         flex: 1,
-        backgroundColor: 'ghostwhite'
+        backgroundColor: 'snow'
     },
     
     containerLogin:{
         justifyContent: 'center',
         marginHorizontal: 30,
-        backgroundColor: 'ghostwhite'
+        backgroundColor: 'snow'
     },
 
     logo: {
