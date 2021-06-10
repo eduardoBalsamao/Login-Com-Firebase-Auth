@@ -4,29 +4,29 @@ App criado com o intuito de estudar o uso do Firebase Auth em um projeto React-N
 
 O código está inteiro comentado em portugues.
 
-###### Lista dos packages utilizados:
+## Lista dos packages utilizados:
 
-```
-- *react-native-async-storage/async-storage* [Link](https://github.com/react-native-async-storage/async-storage).
-- *react-native-firebase/app* e *react-native-firebase/auth* [Link] (https://rnfirebase.io/auth/usage)
-- *react-native-google-signin/google-signin*  [Link] (https://rnfirebase.io/auth/social-auth)
-- *react-navigation/native, react-navigation/stack*  [Link] (https://reactnavigation.org/docs/getting-started/)
-```
+
+- *react-native-async-storage/async-storage* [Link](https://github.com/react-native-async-storage/async-storage)
+- *react-native-firebase/app* e *react-native-firebase/auth* [Link](https://rnfirebase.io/auth/usage)
+- *react-native-google-signin/google-signin* [Link](https://rnfirebase.io/auth/social-auth)
+- *react-navigation/native, react-navigation/stack* [Link](https://reactnavigation.org/docs/getting-started/)
+
 
 ## Imagens:
 
-Tutorial:
+######Tutorial:
 ![alt text](https://i.imgur.com/w4uNId6.png)
 
-Login:
+######Login:
 ![alt text](https://i.imgur.com/7f86A8U.png)
 
-Registro:
+######Registro:
 ![alt text](https://i.imgur.com/cb3WadP.png)
 
-Login com o Google:
+######Login com o Google:
 ![alt text](https://i.imgur.com/s6v5apL.png)
 
-Home:
+######Home:
 ![alt text](https://i.imgur.com/lc6pCZU.png)
 
