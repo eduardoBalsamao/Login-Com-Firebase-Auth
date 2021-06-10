@@ -15,18 +15,18 @@ O código está inteiro comentado em portugues.
 
 ## Imagens:
 
-######Tutorial:
+###### Tutorial:
 ![alt text](https://i.imgur.com/w4uNId6.png)
 
-######Login:
+###### Login:
 ![alt text](https://i.imgur.com/7f86A8U.png)
 
-######Registro:
+###### Registro:
 ![alt text](https://i.imgur.com/cb3WadP.png)
 
-######Login com o Google:
+###### Login com o Google:
 ![alt text](https://i.imgur.com/s6v5apL.png)
 
-######Home:
+###### Home:
 ![alt text](https://i.imgur.com/lc6pCZU.png)
 
