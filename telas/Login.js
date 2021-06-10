@@ -83,11 +83,6 @@ const Login = ({navigation}) => {
                     <Text style={estilo.appButtonText}>Login</Text>
                 </TouchableOpacity>
 
-                {/* Botão de esqueceu senha */}
-                <TouchableOpacity>
-                    <Text style = {{color: '#009CFF', alignSelf: 'center', fontSize: 15, }}>Esqueceu sua senha?</Text>
-                </TouchableOpacity> 
-
                 {/* Separador */}
                 <Separator />
                 <Text style = {{alignSelf: 'center', fontSize: 15}}>Ou faça login utilizando:</Text>
